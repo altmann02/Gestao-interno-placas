@@ -1,0 +1,230 @@
+{
+  "nextId": {
+    "novas": 13,
+    "suspeita": 12,
+    "hitachi": 1,
+    "enviadas": 4,
+    "reparadas": 1
+  },
+  "dados": {
+    "novas": [
+      {
+        "id": 1,
+        "nome": "Placa PS845",
+        "qtde": 1,
+        "caixa": "10",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 2,
+        "nome": "Placa PS842",
+        "qtde": 4,
+        "caixa": "2 / 3",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 3,
+        "nome": "Placa PS900A",
+        "qtde": 1,
+        "caixa": "1",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 4,
+        "nome": "Placa PS803X",
+        "qtde": 1,
+        "caixa": "1",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 5,
+        "nome": "Placa PS850B",
+        "qtde": 8,
+        "caixa": "4 / 5",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 6,
+        "nome": "DOCT 1.5",
+        "qtde": 2,
+        "caixa": "6",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 7,
+        "nome": "Placa PS870A",
+        "qtde": 1,
+        "caixa": "7",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 8,
+        "nome": "Placa PS861XB",
+        "qtde": 1,
+        "caixa": "7",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 9,
+        "nome": "Placa PS862F",
+        "qtde": 1,
+        "caixa": "7",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 10,
+        "nome": "Placa PS861 E",
+        "qtde": 1,
+        "caixa": "7",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 11,
+        "nome": "DOCT 4000",
+        "qtde": 1,
+        "caixa": "9",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 12,
+        "nome": "Placa PS845",
+        "qtde": 1,
+        "caixa": "10",
+        "data": "2025-01-01",
+        "obs": ""
+      }
+    ],
+    "suspeita": [
+      {
+        "id": 1,
+        "nome": "Placa TCU",
+        "qtde": 4,
+        "caixa": "A",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 2,
+        "nome": "Relé auxiliar 94/87",
+        "qtde": 1,
+        "caixa": "B",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 3,
+        "nome": "Memória 4GB2RX18 PC312800E",
+        "qtde": 1,
+        "caixa": "B",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 4,
+        "nome": "Placa QHLX320A",
+        "qtde": 1,
+        "caixa": "B",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 5,
+        "nome": "Placa PS932",
+        "qtde": 4,
+        "caixa": "C",
+        "data": "2025-01-01",
+        "obs": "Ainda não desmembrado nos tipos"
+      },
+      {
+        "id": 6,
+        "nome": "Placa PS845",
+        "qtde": 2,
+        "caixa": "D",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 7,
+        "nome": "Placa PS933",
+        "qtde": 1,
+        "caixa": "E",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 8,
+        "nome": "Placa PS906A",
+        "qtde": 1,
+        "caixa": "F",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 9,
+        "nome": "Placa PS811F",
+        "qtde": 5,
+        "caixa": "F",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 10,
+        "nome": "Placa PS912",
+        "qtde": 2,
+        "caixa": "F",
+        "data": "2025-01-01",
+        "obs": ""
+      },
+      {
+        "id": 11,
+        "nome": "Placa PS803S",
+        "qtde": 1,
+        "caixa": "F",
+        "data": "2025-01-01",
+        "obs": ""
+      }
+    ],
+    "hitachi": [],
+    "enviadas": [
+      {
+        "id": 1,
+        "nome": "DOCT 1.5 TA1023-50",
+        "qtde": 1,
+        "caixa": "NÃO SE APLICA",
+        "data": "2025-01-01",
+        "resp": "",
+        "obs": ""
+      },
+      {
+        "id": 2,
+        "nome": "Placa PS862I",
+        "qtde": 1,
+        "caixa": "NÃO SE APLICA",
+        "data": "2025-01-01",
+        "resp": "",
+        "obs": ""
+      },
+      {
+        "id": 3,
+        "nome": "Placa PS932XB",
+        "qtde": 1,
+        "caixa": "NÃO SE APLICA",
+        "data": "2025-01-01",
+        "resp": "",
+        "obs": ""
+      }
+    ],
+    "reparadas": []
+  }
+}
