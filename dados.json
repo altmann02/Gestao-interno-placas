@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 6,
+    "hitachi": 7,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -240,6 +240,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PRA AXIA NORTE. SOBROU DA OBRA...",
         "laudo": ""
+      },
+      {
+        "id": 6,
+        "nome": "PLACA PS932XB",
+        "qtde": 1,
+        "caixa": "20",
+        "data": "2026-06-08",
+        "obs": "PLACA CEDIDA PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -273,5 +282,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:09:42.912Z"
+  "atualizado": "2026-06-08T18:22:35.741Z"
 }
