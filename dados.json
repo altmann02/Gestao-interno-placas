@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 1,
+    "hitachi": 2,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -195,7 +195,17 @@
         "obs": ""
       }
     ],
-    "hitachi": [],
+    "hitachi": [
+      {
+        "id": 1,
+        "nome": "PLACA PS853",
+        "qtde": 1,
+        "caixa": "20",
+        "data": "2026-06-08",
+        "obs": "PLACA QUE SOBROU INICIO DA OBRA. CEDIDO PARA AXIA NORTE",
+        "laudo": ""
+      }
+    ],
     "enviadas": [
       {
         "id": 1,
@@ -227,5 +237,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-05"
+  "atualizado": "2026-06-08T18:07:29.366Z"
 }
