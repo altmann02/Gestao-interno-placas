@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 8,
+    "hitachi": 9,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -258,6 +258,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 8,
+        "nome": "PLACA PS 950XA",
+        "qtde": 1,
+        "caixa": "22",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -291,5 +300,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:24:50.175Z"
+  "atualizado": "2026-06-08T18:25:14.826Z"
 }
