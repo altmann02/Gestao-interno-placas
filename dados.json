@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 15,
+    "hitachi": 16,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -321,6 +321,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 15,
+        "nome": "PLACA PS933F",
+        "qtde": 3,
+        "caixa": "24",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -354,5 +363,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:30:24.279Z"
+  "atualizado": "2026-06-08T18:32:24.276Z"
 }
