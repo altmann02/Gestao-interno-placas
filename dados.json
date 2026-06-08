@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 4,
+    "hitachi": 5,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -222,6 +222,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PARA AXIA NORTE. SOBROU DA OBRA PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 4,
+        "nome": "PLACA PS 870A",
+        "qtde": 1,
+        "caixa": "20",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PARA AXIA NORTE. SOBROU DA OBRA E HITACHI CEDEU.",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -255,5 +264,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:08:37.105Z"
+  "atualizado": "2026-06-08T18:09:10.955Z"
 }
