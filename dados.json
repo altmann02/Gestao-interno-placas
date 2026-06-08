@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 12,
+    "hitachi": 13,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -294,6 +294,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 12,
+        "nome": "PLACA PS851XA",
+        "qtde": 1,
+        "caixa": "23",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -327,5 +336,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:29:18.982Z"
+  "atualizado": "2026-06-08T18:29:40.749Z"
 }
