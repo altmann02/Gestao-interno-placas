@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 3,
+    "hitachi": 4,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -213,6 +213,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PARA AXIA NORTE. SOBROU DA OBRA PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 3,
+        "nome": "PLACA PS860",
+        "qtde": 1,
+        "caixa": "20",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PARA AXIA NORTE. SOBROU DA OBRA PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -246,5 +255,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:08:07.581Z"
+  "atualizado": "2026-06-08T18:08:37.105Z"
 }
