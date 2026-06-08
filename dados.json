@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 19,
+    "hitachi": 20,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -357,6 +357,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 19,
+        "nome": "PLACA PS803F",
+        "qtde": 2,
+        "caixa": "25",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI.",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -390,5 +399,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:35:13.306Z"
+  "atualizado": "2026-06-08T18:35:39.874Z"
 }
