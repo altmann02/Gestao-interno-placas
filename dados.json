@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 10,
+    "hitachi": 11,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -276,6 +276,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 10,
+        "nome": "PLACA PS862",
+        "qtde": 1,
+        "caixa": "21",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -309,5 +318,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:25:42.287Z"
+  "atualizado": "2026-06-08T18:26:46.135Z"
 }
