@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 11,
+    "hitachi": 12,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -285,6 +285,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 11,
+        "nome": "PLACA PS850B",
+        "qtde": 2,
+        "caixa": "23",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -318,5 +327,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:26:46.135Z"
+  "atualizado": "2026-06-08T18:29:18.982Z"
 }
