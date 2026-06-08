@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 21,
+    "hitachi": 22,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -375,6 +375,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI",
         "laudo": ""
+      },
+      {
+        "id": 21,
+        "nome": "PLACA PS906A",
+        "qtde": 2,
+        "caixa": "25",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -408,5 +417,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:35:59.671Z"
+  "atualizado": "2026-06-08T18:36:16.871Z"
 }
