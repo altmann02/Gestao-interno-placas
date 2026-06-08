@@ -2,7 +2,7 @@
   "nextId": {
     "novas": 13,
     "suspeita": 12,
-    "hitachi": 18,
+    "hitachi": 19,
     "enviadas": 4,
     "reparadas": 1
   },
@@ -348,6 +348,15 @@
         "data": "2026-06-08",
         "obs": "CEDIDO PELA HITACHI. SOBROU DA OBRA",
         "laudo": ""
+      },
+      {
+        "id": 18,
+        "nome": "PLACA PS912",
+        "qtde": 1,
+        "caixa": "25",
+        "data": "2026-06-08",
+        "obs": "CEDIDO PELA HITACHI",
+        "laudo": ""
       }
     ],
     "enviadas": [
@@ -381,5 +390,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:33:10.575Z"
+  "atualizado": "2026-06-08T18:35:13.306Z"
 }
