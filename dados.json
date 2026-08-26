@@ -1,6 +1,6 @@
 {
   "nextId": {
-    "novas": 13,
+    "novas": 14,
     "suspeita": 12,
     "hitachi": 22,
     "enviadas": 4,
@@ -103,6 +103,15 @@
         "caixa": "10",
         "data": "2026-06-05",
         "obs": ""
+      },
+      {
+        "id": 13,
+        "nome": "Placa TCU",
+        "qtde": 39,
+        "caixa": "NA",
+        "data": "2026-08-26",
+        "obs": "Foi colocado no armário essas TCU´s que estavam antes na sala fria. Referência 1JNL100203-762",
+        "laudo": ""
       }
     ],
     "suspeita": [
@@ -417,5 +426,5 @@
     ],
     "reparadas": []
   },
-  "atualizado": "2026-06-08T18:36:16.871Z"
+  "atualizado": "2026-08-26T17:01:32.382Z"
 }
